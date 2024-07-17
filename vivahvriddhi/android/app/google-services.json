@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "867707697668",
+    "project_id": "vivahvriddhi-production",
+    "storage_bucket": "vivahvriddhi-production.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867707697668:android:40654d382494f47b779351",
+        "android_client_info": {
+          "package_name": "com.vivahvriddhi.wedding_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMh0QPmMWXDj9QlTpcTC6WQTfII7LFq64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867707697668:android:d86befdc5c39c2b4779351",
+        "android_client_info": {
+          "package_name": "com.vivahvriddhi.wedding_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMh0QPmMWXDj9QlTpcTC6WQTfII7LFq64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
